@@ -1,5 +1,6 @@
 # Day4-Training-ARC-13123152
 Router
+```
 College#show startup-config
 Using 1055 bytes
 !
@@ -37,4 +38,4 @@ license udi pid CISCO1941/K9 sn FTX1524PMLM
 !
 !
 !
-
+```
